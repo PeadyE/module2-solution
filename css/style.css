@@ -131,7 +131,7 @@ span{
 
  .small_container{ flex-direction: column; }
 
- .small_container.shawarma.small_container.b,.small_container.c{
+ .small_container.Shawarma.small_container.b,.small_container.c{
 
    flex-basis: content;
 
