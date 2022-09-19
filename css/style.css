@@ -109,7 +109,7 @@ span{
 
  } 
 
- .small_container.Shawarma,.small_container.b{
+ .small_container.shawarma,.small_container.b{
 
    flex-basis: 25rem;
 
@@ -133,7 +133,7 @@ span{
 
  .small_container{ flex-direction: column; }
 
- .small_container.Shawarma.small_container.b,.small_container.c{
+ .small_container.shawarma.small_container.b,.small_container.c{
 
    flex-basis: content;
 
